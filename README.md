@@ -1,7 +1,18 @@
 # vue
 
 ElementUI
-VueCLI2
+VueCLI4
+
+## Reference
+- https://router.vuejs.org/kr/guide/#html
+- https://element.eleme.io/#/en-US/component/installation
+- https://github.com/JunilHwang/zum_pilot
+
+## 기획
+- https://docs.google.com/presentation/d/1hXExS0ATScXuGqbbvSDszTiGb_5xydQenlDa3E9FVzw/edit#slide=id.g540671e600_0_51
+
+## 영상
+
 
 
 ## Project setup
