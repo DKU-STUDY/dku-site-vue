@@ -1,5 +1,9 @@
 # vue
 
+ElementUI
+VueCLI2
+
+
 ## Project setup
 ```
 yarn install
