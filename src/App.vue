@@ -1,7 +1,10 @@
 <template>
   <div id="app">
-    <Header/>
-    <router-view />
+    <el-container>
+      <Header/>
+      <el-main><router-view /></el-main>
+      <el-footer>Footer</el-footer>
+    </el-container>
   </div>
 </template>
 
@@ -15,6 +18,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss" src="@/assets/scss/common.scss">
-</style>
